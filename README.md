@@ -1,6 +1,5 @@
-# Resources
-
-## Neubias Academy 2020 - Introduction to Nuclei Segmentation with *StarDist*
+# Neubias Academy 2020
+## Introduction to Nuclei Segmentation with *StarDist*
 
 ![](imgs/stardist_img.png)
 
@@ -20,6 +19,6 @@
 
 ### Tutors/Contact
 
-[Martin Weigert](mailto: martin.weigert@epfl.ch), [Uwe Schmidt](mailto: research@uweschmidt.org), [Olivier Burri](mailto: olivier.burri@epfl.ch)
+[Martin Weigert](mailto:martin.weigert@epfl.ch), [Uwe Schmidt](mailto:research@uweschmidt.org), [Olivier Burri](mailto:olivier.burri@epfl.ch)
 
 
