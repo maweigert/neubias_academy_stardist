@@ -7,6 +7,7 @@
 
 * Slides: TODO
 * Google doc for questions: TODO
+* Demo Training Notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/neubias_academy_stardist/blob/master/notebooks/stardist_example_2D_colab.ipynb)
 
 
 ### StarDist Software Links 
