@@ -20,6 +20,7 @@
 
 ### Tutors/Contact
 
-[Martin Weigert](mailto:martin.weigert@epfl.ch), [Uwe Schmidt](mailto:research@uweschmidt.org), [Olivier Burri](mailto:olivier.burri@epfl.ch)
-
-
+[Martin Weigert](mailto:martin.weigert@epfl.ch),
+[Olivier Burri](mailto:olivier.burri@epfl.ch),
+[Siân Culley](mailto:s.culley@ucl.ac.uk),
+[Uwe Schmidt](mailto:research@uweschmidt.org), 
